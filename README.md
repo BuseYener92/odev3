@@ -1,2 +1,1 @@
-# odev3
-Kodluyoruz Front-End Eğitimi kapsamında yemek tarifi oluşturma
+![image](https://ibb.co/GCkjMr7)
